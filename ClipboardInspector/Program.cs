@@ -84,6 +84,8 @@ class ClipboardInspector
 
                 Console.WriteLine(); // Empty line
             }
+            Console.WriteLine("Press any key to exit...");
+            Console.ReadKey(true);
 
         }
         catch (Exception ex)
