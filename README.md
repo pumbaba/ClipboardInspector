@@ -65,3 +65,7 @@ The tool detects and optionally previews:
 - Format mappings include both Win32 and .NET perspectives where available
 
 ---
+
+## License
+
+MIT License – use freely for debugging, clipboard inspection, internal tooling, or educational purposes.
