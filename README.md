@@ -1,9 +1,17 @@
 # Clipboard Inspector
 
+[![Release](https://img.shields.io/github/v/release/pumbaba/ClipboardInspector?label=Latest%20Release)](https://github.com/pumbaba/ClipboardInspector/releases/latest)
+
+[Download ClipboardInspector.exe](https://github.com/pumbaba/ClipboardInspector/releases/latest/download/ClipboardInspector.exe)
+
 A C# console utility for analyzing the full contents of the Windows clipboard.  
 It enumerates all available formats using both .NET and Win32 APIs, and displays format metadata and content previews where possible.
 
 ---
+
+## How to use
+
+Simply copy some data to the clipboard, then execute the tool.
 
 ## Purpose
 
