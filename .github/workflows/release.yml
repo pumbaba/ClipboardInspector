@@ -35,4 +35,4 @@ jobs:
         with:
           files: publish/ClipboardInspector.exe
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # ← oder dein personal token, falls nötig
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
